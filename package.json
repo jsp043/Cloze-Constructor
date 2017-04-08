@@ -1,0 +1,16 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "Basic/Cloze flashcard generator",
+  "main": "cloze.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsp043/flashcard-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/jsp043/flashcard-generator#readme"
+}
